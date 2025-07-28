@@ -1,0 +1,5 @@
+body { font-family: Arial; margin: 20px; }
+nav a { margin-right: 10px; }
+.item { margin: 20px 0; }
+img { width: 200px; border: 1px solid #ccc; }
+.ad-area { border: 1px dashed #aaa; padding: 20px; margin: 20px 0; background: #f9f9f9; }
